@@ -1,0 +1,18 @@
+.wp-block-udemy-media-upload{
+    .image-ctr { 
+        position: relative;
+    }
+
+    .btn-remove{
+        background-color: #FF564D;
+        padding: 5px 5px 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        svg {
+            background: red;
+            fill: white;
+        }
+    }
+}

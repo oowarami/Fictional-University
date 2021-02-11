@@ -1,0 +1,37 @@
+/* Plain CSS */
+/* SCSS */
+.wp-block-udemy-recipe ul.list-unstyled {
+  padding-left: 0;
+  list-style: none; }
+
+.wp-block-udemy-recipe li {
+  margin: 0;
+  padding: 0; }
+
+/* Plain CSS */
+/* SCSS */
+.wp-block-udemy-recipe ul.list-unstyled {
+  padding-left: 0;
+  list-style: none; }
+
+.wp-block-udemy-recipe li {
+  margin: 0;
+  padding: 0; }
+
+.wp-block-udemy-night-mode .night {
+  background-color: #333;
+  color: #ddd; }
+
+.wp-block-udemy-media-upload .image-ctr {
+  position: relative; }
+
+.wp-block-udemy-media-upload .btn-remove {
+  background-color: #FF564D;
+  padding: 5px 5px 0;
+  position: absolute;
+  top: 0;
+  left: 0; }
+  .wp-block-udemy-media-upload .btn-remove svg {
+    background: red;
+    fill: white; }
+
